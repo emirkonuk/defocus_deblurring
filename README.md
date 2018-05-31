@@ -17,6 +17,6 @@ The implementations of the two fundamental image deblurring algorithms;
 - Wiener Filtering, and 
 - Richardson Lucy Algorithm
 
-can be found in the Notebook. For example, here is the results of applying a naive inverse filtering vs. Wiener Filtering for both known and unknown Signal-to-Noise ratios in the presence of a small additive noise:
+can be found in the Notebook. For example, here is the results of applying a naive inverse filtering vs. Wiener Filtering for both known and unknown Signal-to-Noise ratios in the presence of small additive noise:
 
 ![Wiener Comparison](https://github.com/emirkonuk/defocus_deblurring/blob/master/imgs/wiener_comparison.png)
